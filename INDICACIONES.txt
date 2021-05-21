@@ -1,0 +1,10 @@
+EQUIPO 2:
+
+1. JUAN EDUARDO BUENO LOPEZ
+2. ALISON ATLATENCO SOLIS
+3. JAIR ERICK RODRIGUEZ AMBRIZ
+4. MARIA GUADALUPE AMASTAL PEREZ
+
+Es compatible con los navegadores de Firefox y Chrome
+La página de inicio se denomina index.html
+No se agregaron archivos php
